@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+fastembed
+faiss-cpu
+numpy
+httpx
+python-dotenv
+pydantic
+gunicorn
