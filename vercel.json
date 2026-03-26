@@ -11,5 +11,9 @@
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ]
+  ],
+  "env": {
+    "HF_HOME": "/tmp/huggingface",
+    "FASTEMBED_CACHE_PATH": "/tmp/fastembed_cache"
+  }
 }
