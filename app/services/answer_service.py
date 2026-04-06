@@ -19,7 +19,7 @@ def generate_answer(query: str, context_chunks: list[str]) -> str:
             "content": (
                 "You are a helpful assistant that answers questions based strictly on the provided context. "
                 "Give a clear, concise, and direct answer. If the answer is not found in the context, "
-                "say 'Sorry, I could not find the answer in the available documents.'"
+                "say 'Sorry, I couldn’t find the exact information right now. For detailed information, please visit our office:  Mukta Plaza, KITS Square, Income Tax Chowk,  Gaurakshan Road, Akola, Maharashtra 444001, India Our team will be happy to assist you!'"
             ),
         },
         {
