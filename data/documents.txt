@@ -70,82 +70,14 @@ The Syllabus (Curriculum) of Year-Wise Robotics Learning Program : Orientation G
 Age: 11-16 years
 School students, ATL labs, STEM programs
 Aligned with CBSE skill-based education & NEP 2020
-1.	LEVEL 1: FOUNDATION OF ROBOTICS
-Module	Topics				Contents						        Introduction to Robotics	what is a robot, types, History, real-life robots, ethics		
-Basic Electronics		Current, voltage, components, LED, resistor, battery, breadboard
-Sensors & Actuators		IR, ultrasonic, motors, Input-output concept			
-Mechanical Basics		Wheels, gears, chassis, Robot structure				
-Block Coding			Logic, loops, conditions	Scratch / visual coding
+1.	LEVEL 1: FOUNDATION OF ROBOTICS Module	Topics				Contents						        Introduction to Robotics	what is a robot, types, History, real-life robots, ethics		1. Basic Electronics		Current, voltage, components, LED, resistor, battery, breadboard 2.Sensors & Actuators		IR, ultrasonic, motors, Input-output concept			3.Mechanical Basics		Wheels, gears, chassis, Robot structure				4. Block Coding			Logic, loops, conditions	Scratch / visual coding Outcome a)	Line Follower Robot b)	Obstacle Avoiding Robot c)	Smart Dustbin d)	Automatic Door Opener e)	LED Traffic Signal Fees: Rs. 6,500/- Certificate: Foundation Robotics Certificate Benefits: Students understand how machines sense, decide, and act.
 
-Outcome
-a)	Line Follower Robot
-b)	Obstacle Avoiding Robot
-c)	Smart Dustbin
-d)	Automatic Door Opener
-e)	LED Traffic Signal
+2.	LEVEL 2: CORE ROBOTICS & AUTOMATION Module	Topics				Contents						        Microcontroller Basics		Arduino architecture, Pins, power, programming		Programming Logic		If-else, loops, Arduino C basics					Motor Control			DC, servo motors, Motor driver, PWM				Sensor Integration		Multiple sensors, Data reading & decisions			Automation Systems		Timers, triggers	Real-life automation				Outcome a)	Bluetooth Controlled Robot b)	Automatic Plant Watering System c)	Fire Detection & Alarm System d)	Smart Home Model e)	Robotic Arm (Basic) Fees: Rs. 13,000/-  Certificate: Automation Specialist Benefits: Students apply robotics to daily-life problems. 
 
-Fees: Rs. 6,500/-
-Certificate: Foundation Robotics Certificate
-Benefits: Students understand how machines sense, decide, and act.
-
-2.	LEVEL 2: CORE ROBOTICS & AUTOMATION
-Module	Topics				Contents						       
-Microcontroller Basics		Arduino architecture, Pins, power, programming		
-Programming Logic		If-else, loops, Arduino C basics					
-Motor Control			DC, servo motors, Motor driver, PWM				
-Sensor Integration		Multiple sensors, Data reading & decisions			
-Automation Systems		Timers, triggers	Real-life automation				
-
-Outcome
-a)	Bluetooth Controlled Robot
-b)	Automatic Plant Watering System
-c)	Fire Detection & Alarm System
-d)	Smart Home Model
-e)	Robotic Arm (Basic)
-
-Fees: Rs. 13,000/- 
-Certificate: Automation Specialist
-Benefits: Students apply robotics to daily-life problems.
-3.	LEVEL 3: IoT & SMART SYSTEMS
-Module	Topics				Contents						       
-IoT Basics			What is IoT, Devices, cloud, data				
-Connectivity			WiFi, Bluetooth	ESP32 / ESP8266				
-App Control			Mobile dashboards, Blynk / web apps				
-Data Monitoring		Sensors to cloud, Charts & alerts				
-Smart Models			Home, parking,	IoT automation					
-
-Benefits:
-a)	IoT Weather Station
-b)	Smart Parking System
-c)	Voice Controlled Robot
-d)	Smart Attendance (RFID)
-e)	GPS Vehicle Tracking (Model)
-
-Fees: Rs. 18,000/- Per Student per Year
-Certificate: IoT Innovator Certificate
-Benefits: Students connect hardware + software + internet.
+3.	LEVEL 3: IoT & SMART SYSTEMS Module	Topics				Contents						       IoT Basics			What is IoT, Devices, cloud, data				Connectivity			WiFi, Bluetooth	ESP32 / ESP8266				App Control			Mobile dashboards, Blynk / web apps				Data Monitoring		Sensors to cloud, Charts & alerts				Smart Models			Home, parking,	IoT automation					Benefits: a)	IoT Weather Station b)	Smart Parking System c)	Voice Controlled Robot d)	Smart Attendance (RFID) e)	GPS Vehicle Tracking (Model) Fees: Rs. 18,000/- Per Student per Year Certificate: IoT Innovator Certificate Benefits: Students connect hardware + software + internet.
 
 
-4.	LEVEL 4: AI & ADVANCED ROBOTICS
-Module	Topics				Contents						       
-AI Basics			What is AI, ML Examples, ethics					
-Computer Vision		Camera, detection, Face/object detection (conceptual)		
-Autonomous Navigation	Mapping, path logic, Obstacle avoidance logic			
-Control Systems		PID basics, Stability & balancing					
-Innovation Project		Problem solving, Design thinking
-
-Outcome:
-a)	Autonomous Delivery Robot
-b)	AI Waste Segregation System
-c)	Smart Agriculture Robot
-d)	Disaster Rescue Robot
-e)	Self-Balancing Robot
-
-Fees: Rs. 21,000/- Per Student per Year
-Certificate: - AI Robotics Professional (School Level)
-Benefits: Students become innovators, not just users.
-STUDENT PROJECT MANUAL STRUCTURE
-Each project manual should include:
+4.	LEVEL 4: AI & ADVANCED ROBOTICS Module	Topics				Contents						        AI Basics			What is AI, ML Examples, ethics		Computer Vision		Camera, detection, Face/object detection (conceptual)		Autonomous Navigation	Mapping, path logic, Obstacle avoidance logic			Control Systems		PID basics, Stability & balancing					Innovation Project		Problem solving, Design thinking Outcome: a)	Autonomous Delivery Robot b)	AI Waste Segregation System c)	Smart Agriculture Robot d)	Disaster Rescue Robot e)	Self-Balancing Robot Fees: Rs. 21,000/- Per Student per Year Certificate: - AI Robotics Professional (School Level) Benefits: Students become innovators, not just users. STUDENT PROJECT MANUAL STRUCTURE Each project manual should include:
  
 1)	Project Title
 2)	Problem Statement
@@ -219,6 +151,7 @@ This step-by-step robotics curriculum builds Curiosity → skills → innovation
 This creates a strong foundation → future-ready skills → innovation mind-set.
 
 
+At KITS, we offer professional 3D printing services at an affordable cost of ₹5 to ₹7 per gram, customized based on your project requirements. Along with services, we also provide hands-on training in 3D printing, helping students and professionals learn real-world applications. In addition, KITS offers advanced creative and technology courses including 3D Animation, AR/VR (Augmented & Virtual Reality), and Graphic Designing, designed to build industry-ready skills and practical expertise.
 
 
 
